@@ -1,5 +1,9 @@
-#### By Chris Stone <chris.stone@nuwavepartners.com> v0.0.31 2020-10-12 14:02:41
-# Based on https://github.com/RamblingCookieMonster/PSDeploy
+<#
+.NOTES
+	Author:			Chris Stone <chris.stone@nuwavepartners.com>
+	Date-Modified:	2020-10-15 10:53:01
+	Based On:		https://github.com/RamblingCookieMonster/PSDeploy
+#>
 
 function Resolve-Module {
 	[Cmdletbinding()]
